@@ -1,0 +1,5 @@
+{
+  "name": "pr-panel",
+  "owner": { "name": "nunziati" },
+  "plugins": [{ "name": "pr-panel", "source": "./" }]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pr-panel",
+  "version": "0.1.0",
+  "description": "A pane showing a GitHub pull request's description and its discussion",
+  "author": { "name": "nunziati" },
+  "types": "./types/index.d.ts"
+}
